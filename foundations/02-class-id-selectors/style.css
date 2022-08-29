@@ -1,0 +1,18 @@
+.odd {
+  background-color: rgba(250, 0, 0, 0.4);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#el2 {
+  color: rgb(0, 0, 200);
+  font-size: 36px;
+}
+
+.medium-font-size {
+    font-size: 24px;
+}
+
+#el4 {
+    background-color: rgba(0, 230, 0, 0.4);
+    font-weight: bold;
+}
